@@ -53,7 +53,7 @@ noButton.addEventListener("click", function () {
   if (clickCount === 2) mainImage.src = "images/stear.png"; // 思考
   if (clickCount === 3) mainImage.src = "images/joke.png"; // 生气
   if (clickCount === 4) mainImage.src = "images/cry.png"; // 哭
-  if (clickCount >= 5) mainImage.src = "images/happy.png"; // 之后一直是哭
+  if (clickCount >= 5) mainImage.src = "images/retouch_2025040417214372.png"; // 之后一直是哭
 });
 
 // Yes 按钮点击后，进入表白成功页面
